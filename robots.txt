@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /index.html/
+Disallow: /folder/stuff/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /~joe/
+Disallow: /demo/
+Disallow: /qps/
+Disallow: /amcl/
+Disallow: /webmail-bk/
+Disallow: /stag-c.magnifymoney.com/
+Sitemap: http://dubondinfotech.com/sitemap.xml
